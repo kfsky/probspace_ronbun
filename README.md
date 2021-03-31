@@ -52,7 +52,7 @@ CVの結果が中々PBに反映されて行かなかったので、CVのやり�
 # Late Subでのメモ  
 上位層は基本的に、doi-citesとcite（今回の目的変数）との差を予測するモデルを実装していた。  
 1位の方は、以下の様に目的変数を設定  
-<B>np.log1p(cites) - np.log1p(doi_cites)
+<B>np.log1p(cites) - np.log1p(doi_cites)</B>
 
 過去のコンペでもあったとのこと（https://prob.space/competitions/youtube-view-count)  
 
