@@ -1,13 +1,14 @@
 # probspace_論文コンペ
 
-# コンペティション概要
+## コンペティション概要
 本コンペでは、論文投稿サイト（プレ・プリントサーバー）の公開情報を用いて、被引用数を予測する
 * https://prob.space/competitions/citation_prediction
 
-# コンペの特徴  
+## コンペの特徴  
 今回のコンペでは、学習データの一部に目的変数（被引用数）が含まれておらず、代わりにDigital Object Identifier（DOI）により計算された低精度被引用数が代替変数として付与されている。 
 
-# 順位 
+## 順位  
+Public：30位、Private：29位  
 ![image](https://user-images.githubusercontent.com/46860245/113080144-5dc19880-9211-11eb-8aaa-90cf5931ae47.png)
 
 
